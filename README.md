@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there! 👋 I'm Juan Cardona
 
-<!--
-**juancardonahenao/juancardonahenao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+I'm a Salesforce Developer working in an agile delivery team, passionate about building scalable solutions and automating business processes on the Salesforce platform.
+I specialize in developing custom features, integrating complex systems, and collaborating with cross-functional teams to deliver high-quality solutions that drive business value.
 
-Here are some ideas to get you started:
+💼 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Build custom features using Apex and Lightning Web Components
+Design and implement automation workflows with Flows and Process Builder
+Integrate Salesforce with internal and third-party systems via REST APIs
+Participate in sprint planning, code reviews, and solution design
+Contribute to CI/CD practices and DevOps workflows
