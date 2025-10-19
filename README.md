@@ -6,6 +6,8 @@ I specialize in developing custom features, integrating complex systems, and col
 
 💼 What I Do
 
+<p></p>
+
 Build custom features using Apex and Lightning Web Components
 Design and implement automation workflows with Flows and Process Builder
 Integrate Salesforce with internal and third-party systems via REST APIs
